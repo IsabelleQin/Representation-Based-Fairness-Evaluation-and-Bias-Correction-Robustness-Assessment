@@ -1,0 +1,30 @@
+{
+    "GC-1": {
+        "Accuracy": 0.727,
+        "Demographic Parity": 0.001,
+        "Equalized Odds": 0.011,
+        "Group level discrepancy": 1.313,
+        "Individual level discrepancy": 0.1
+    },
+    "GC-4": {
+        "Accuracy": 0.713,
+        "Demographic Parity": 0.015,
+        "Equalized Odds": 0.044,
+        "Group level discrepancy": 1.285,
+        "Individual level discrepancy": 0.013
+    },
+    "GC-3": {
+        "Accuracy": 0.707,
+        "Demographic Parity": 0.032,
+        "Equalized Odds": 0.037,
+        "Group level discrepancy": 0.022,
+        "Individual level discrepancy": 0.147
+    },
+    "GC-2": {
+        "Accuracy": 0.747,
+        "Demographic Parity": 0.014,
+        "Equalized Odds": 0.033,
+        "Group level discrepancy": 0.067,
+        "Individual level discrepancy": 0.033
+    }
+}

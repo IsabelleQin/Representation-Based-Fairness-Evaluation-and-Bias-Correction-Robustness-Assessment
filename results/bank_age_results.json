@@ -1,0 +1,58 @@
+{
+    "BM-2": {
+        "Accuracy": 0.888,
+        "Demographic Parity": 0.007,
+        "Equalized Odds": 0.182,
+        "Group level discrepancy": 0.0,
+        "Individual level discrepancy": 0.0
+    },
+    "BM-6": {
+        "Accuracy": 0.889,
+        "Demographic Parity": 0.0,
+        "Equalized Odds": 0.189,
+        "Group level discrepancy": 0.0,
+        "Individual level discrepancy": 0.0
+    },
+    "BM-7": {
+        "Accuracy": 0.887,
+        "Demographic Parity": 0.008,
+        "Equalized Odds": 0.165,
+        "Group level discrepancy": 0.003,
+        "Individual level discrepancy": 0.005
+    },
+    "BM-3": {
+        "Accuracy": 0.882,
+        "Demographic Parity": 0.032,
+        "Equalized Odds": 0.156,
+        "Group level discrepancy": 0.002,
+        "Individual level discrepancy": 0.003
+    },
+    "BM-8": {
+        "Accuracy": 0.892,
+        "Demographic Parity": 0.007,
+        "Equalized Odds": 0.128,
+        "Group level discrepancy": 0.001,
+        "Individual level discrepancy": 0.004
+    },
+    "BM-4": {
+        "Accuracy": 0.895,
+        "Demographic Parity": 0.006,
+        "Equalized Odds": 0.197,
+        "Group level discrepancy": 0.0,
+        "Individual level discrepancy": 0.0
+    },
+    "BM-1": {
+        "Accuracy": 0.892,
+        "Demographic Parity": 0.012,
+        "Equalized Odds": 0.164,
+        "Group level discrepancy": 0.0,
+        "Individual level discrepancy": 0.0
+    },
+    "BM-5": {
+        "Accuracy": 0.889,
+        "Demographic Parity": 0.009,
+        "Equalized Odds": 0.164,
+        "Group level discrepancy": 0.0,
+        "Individual level discrepancy": 0.002
+    }
+}

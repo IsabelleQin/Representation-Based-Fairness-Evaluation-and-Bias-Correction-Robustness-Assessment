@@ -1,0 +1,62 @@
+{
+    "GC-1": {
+        "subgroup=0": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 7,
+            "Correction Agreement Rate": 0.143
+        },
+        "subgroup=1": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 30,
+            "Correction Agreement Rate": 0.333
+        },
+        "Agreed Prediction Rate": 0.927,
+        "Original Prediction Accuracy": 0.727,
+        "Agreed Prediction Accuracy": 0.727
+    },
+    "GC-4": {
+        "subgroup=0": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 8,
+            "Correction Agreement Rate": 0.875
+        },
+        "subgroup=1": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 34,
+            "Correction Agreement Rate": 0.824
+        },
+        "Agreed Prediction Rate": 0.987,
+        "Original Prediction Accuracy": 0.713,
+        "Agreed Prediction Accuracy": 0.709
+    },
+    "GC-3": {
+        "subgroup=0": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 2,
+            "Correction Agreement Rate": 1.0
+        },
+        "subgroup=1": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 7,
+            "Correction Agreement Rate": 0.429
+        },
+        "Agreed Prediction Rate": 0.827,
+        "Original Prediction Accuracy": 0.707,
+        "Agreed Prediction Accuracy": 0.702
+    },
+    "GC-2": {
+        "subgroup=0": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 7,
+            "Correction Agreement Rate": 0.286
+        },
+        "subgroup=1": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 29,
+            "Correction Agreement Rate": 0.517
+        },
+        "Agreed Prediction Rate": 0.96,
+        "Original Prediction Accuracy": 0.747,
+        "Agreed Prediction Accuracy": 0.736
+    }
+}

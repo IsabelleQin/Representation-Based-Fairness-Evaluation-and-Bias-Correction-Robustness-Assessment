@@ -1,0 +1,86 @@
+{
+    "AC-10": {
+        "Accuracy": 0.845,
+        "Demographic Parity": 0.204,
+        "Equalized Odds": 0.159,
+        "Group level discrepancy": 0.029,
+        "Individual level discrepancy": 0.014
+    },
+    "AC-4": {
+        "Accuracy": 0.849,
+        "Demographic Parity": 0.134,
+        "Equalized Odds": 0.066,
+        "Group level discrepancy": 0.411,
+        "Individual level discrepancy": 0.168
+    },
+    "AC-5": {
+        "Accuracy": 0.852,
+        "Demographic Parity": 0.189,
+        "Equalized Odds": 0.164,
+        "Group level discrepancy": 0.12,
+        "Individual level discrepancy": 0.019
+    },
+    "AC-1": {
+        "Accuracy": 0.852,
+        "Demographic Parity": 0.154,
+        "Equalized Odds": 0.105,
+        "Group level discrepancy": 0.011,
+        "Individual level discrepancy": 0.019
+    },
+    "AC-11": {
+        "Accuracy": 0.81,
+        "Demographic Parity": 0.329,
+        "Equalized Odds": 0.225,
+        "Group level discrepancy": 0.578,
+        "Individual level discrepancy": 0.144
+    },
+    "AC-6": {
+        "Accuracy": 0.848,
+        "Demographic Parity": 0.131,
+        "Equalized Odds": 0.077,
+        "Group level discrepancy": 0.206,
+        "Individual level discrepancy": 0.099
+    },
+    "AC-12": {
+        "Accuracy": 0.842,
+        "Demographic Parity": 0.181,
+        "Equalized Odds": 0.104,
+        "Group level discrepancy": 0.151,
+        "Individual level discrepancy": 0.067
+    },
+    "AC-2": {
+        "Accuracy": 0.847,
+        "Demographic Parity": 0.119,
+        "Equalized Odds": 0.037,
+        "Group level discrepancy": 0.221,
+        "Individual level discrepancy": 0.16
+    },
+    "AC-3": {
+        "Accuracy": 0.845,
+        "Demographic Parity": 0.131,
+        "Equalized Odds": 0.044,
+        "Group level discrepancy": 0.383,
+        "Individual level discrepancy": 0.257
+    },
+    "AC-7": {
+        "Accuracy": 0.848,
+        "Demographic Parity": 0.176,
+        "Equalized Odds": 0.188,
+        "Group level discrepancy": 0.032,
+        "Individual level discrepancy": 0.046
+    },
+    "AC-8": {
+        "Accuracy": 0.828,
+        "Demographic Parity": 0.263,
+        "Equalized Odds": 0.178,
+        "Group level discrepancy": 0.077,
+        "Individual level discrepancy": 0.227
+    },
+    "AC-9": {
+        "Accuracy": 0.832,
+        "Demographic Parity": 0.118,
+        "Equalized Odds": 0.075,
+        "Group level discrepancy": 0.037,
+        "Individual level discrepancy": 0.017
+    }
+}

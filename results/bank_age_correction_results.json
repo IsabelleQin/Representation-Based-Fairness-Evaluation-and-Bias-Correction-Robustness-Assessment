@@ -1,0 +1,122 @@
+{
+    "BM-2": {
+        "subgroup=0": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 1,
+            "Correction Agreement Rate": 0.0
+        },
+        "subgroup=1": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 66,
+            "Correction Agreement Rate": 0.0
+        },
+        "Agreed Prediction Rate": 1.0,
+        "Original Prediction Accuracy": 0.888,
+        "Agreed Prediction Accuracy": 0.888
+    },
+    "BM-6": {
+        "subgroup=0": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 3,
+            "Correction Agreement Rate": 0.0
+        },
+        "subgroup=1": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 122,
+            "Correction Agreement Rate": 0.885
+        },
+        "Agreed Prediction Rate": 0.991,
+        "Original Prediction Accuracy": 0.889,
+        "Agreed Prediction Accuracy": 0.892
+    },
+    "BM-7": {
+        "subgroup=0": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 4,
+            "Correction Agreement Rate": 0.25
+        },
+        "subgroup=1": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 150,
+            "Correction Agreement Rate": 0.187
+        },
+        "Agreed Prediction Rate": 0.954,
+        "Original Prediction Accuracy": 0.887,
+        "Agreed Prediction Accuracy": 0.907
+    },
+    "BM-3": {
+        "subgroup=0": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 4,
+            "Correction Agreement Rate": 1.0
+        },
+        "subgroup=1": {
+            "Direction": "Pos to Neg",
+            "Number of Correction": 64,
+            "Correction Agreement Rate": 0.906
+        },
+        "Agreed Prediction Rate": 0.986,
+        "Original Prediction Accuracy": 0.882,
+        "Agreed Prediction Accuracy": 0.889
+    },
+    "BM-8": {
+        "subgroup=0": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 8,
+            "Correction Agreement Rate": 0.0
+        },
+        "subgroup=1": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 294,
+            "Correction Agreement Rate": 0.054
+        },
+        "Agreed Prediction Rate": 1.0,
+        "Original Prediction Accuracy": 0.892,
+        "Agreed Prediction Accuracy": 0.892
+    },
+    "BM-4": {
+        "subgroup=0": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 4,
+            "Correction Agreement Rate": 0.0
+        },
+        "subgroup=1": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 230,
+            "Correction Agreement Rate": 0.0
+        },
+        "Agreed Prediction Rate": 0.982,
+        "Original Prediction Accuracy": 0.895,
+        "Agreed Prediction Accuracy": 0.901
+    },
+    "BM-1": {
+        "subgroup=0": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 5,
+            "Correction Agreement Rate": 0.0
+        },
+        "subgroup=1": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 219,
+            "Correction Agreement Rate": 0.137
+        },
+        "Agreed Prediction Rate": 1.0,
+        "Original Prediction Accuracy": 0.892,
+        "Agreed Prediction Accuracy": 0.892
+    },
+    "BM-5": {
+        "subgroup=0": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 1,
+            "Correction Agreement Rate": 0.0
+        },
+        "subgroup=1": {
+            "Direction": "Neg to Pos",
+            "Number of Correction": 46,
+            "Correction Agreement Rate": 0.152
+        },
+        "Agreed Prediction Rate": 0.982,
+        "Original Prediction Accuracy": 0.889,
+        "Agreed Prediction Accuracy": 0.896
+    }
+}
